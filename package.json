@@ -1,0 +1,16 @@
+{
+  "name": "facilisratione",
+  "version": "1.0.0",
+  "description": "Surikat's way of formatting JS/TS code",
+  "author": "MarjoryLangosh",
+  "license": "MIT",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsobelRosenbaum/facilisratione.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IsobelRosenbaum/facilisratione.git/issues"
+  },
+  "homepage": "https://github.com/IsobelRosenbaum/facilisratione.git"
+}
